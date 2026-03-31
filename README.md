@@ -1,4 +1,4 @@
-Analiza kaznivega dejanja posilstva v Sloveniji
+# Analiza kaznivega dejanja posilstva v Sloveniji
 
 Ta repozitorij vsebuje projket Analiza kaznivega dejanja posilstva v Sloveniji. Ta projekt je pripravljen pri predmetu Računalniska orodja v matematiki 2025/26 na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
 
